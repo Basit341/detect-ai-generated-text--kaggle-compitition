@@ -1,0 +1,1 @@
+# detect-ai-generated-text--kaggle-compitition
